@@ -1,0 +1,15 @@
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.csproj.AssemblyReference.cache
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.AssemblyInfoInputs.cache
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.AssemblyInfo.cs
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.csproj.CoreCompileInputs.cache
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\bin\Debug\net6.0\domzadanie002.exe
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\bin\Debug\net6.0\domzadanie002.deps.json
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\bin\Debug\net6.0\domzadanie002.runtimeconfig.json
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\bin\Debug\net6.0\domzadanie002.dll
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\bin\Debug\net6.0\domzadanie002.pdb
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.dll
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\refint\domzadanie002.dll
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.pdb
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\domzadanie002.genruntimeconfig.cache
+C:\Users\Madi\Desktop\Мади\dom.zadanie\domzadanie002\obj\Debug\net6.0\ref\domzadanie002.dll
